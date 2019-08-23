@@ -39,3 +39,7 @@ Before the program starts, ask the user for their account name and a pin number.
 
 
 # SERIOUSLY, POINTS WILL BE TAKEN OFF FOR NOT COMMENTING
+
+
+### Kenn's Comments
+This was really close. You should also check for the balance is being less than zero after subtracting the the withdrawl to see if they have enough money in the bank. I was allowed to go negative in the program. Also, for the challenges, the pin validation didn't work and the account holder's name is not in the program.
